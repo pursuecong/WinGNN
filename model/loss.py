@@ -1,8 +1,5 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
-# @Time    : 2022/9/20 20:32
-# @Author  : cfp
-# @File    : loss.py
 # @Description :
 import torch
 import torch.nn as nn
