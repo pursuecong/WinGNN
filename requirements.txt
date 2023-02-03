@@ -1,0 +1,9 @@
+dgl==0.9.1
+dgl-cu116==0.9.1.post1
+numpy==1.21.6
+scikit-learn==1.0.2
+torch==1.12.1+cu116
+torch-scatter==2.0.9
+tqdm==4.64.1
+
+
