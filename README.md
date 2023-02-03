@@ -9,4 +9,6 @@ python main.py --dataset uci-msg --lr 0.01 --maml_lr 0.008 --drop_rate 0.16 --wi
 
 ## Acknowledgement
 
-Our source code is built heavily based on the code of Roland (https://github.com/snap-stanford/roland)
+Our source code and data processing are built heavily based on the code of Roland (https://github.com/snap-stanford/roland).
+
+If you want to test additional data sets, you should follow the link provided in the paper to download.
