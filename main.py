@@ -97,7 +97,8 @@ if __name__ == '__main__':
             graphs.append(te)
         n_feat = [n_feat_ for i in range(len(graphs))]
     elif args.dataset in ["reddit_body", "reddit_title", "as_733",
-                          "uci-msg", "bitcoinotc", "bitcoinalpha"]:
+                          "uci-msg", "bitcoinotc", "bitcoinalpha",
+                          'stackoverflow_M']:
         graphs, e_feat, e_time, n_feat = load_r(args.dataset)
     else:
         raise ValueError
