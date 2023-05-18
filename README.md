@@ -31,6 +31,8 @@ python main.py --dataset stackoverflow_M --lr 0.03 --maml_lr 0.001 --drop_rate 0
 
 Our source code and data processing are built heavily based on the code of Roland (https://github.com/snap-stanford/roland).
 
+The data set download address is provided in the paper.
+
 ## Reference
 
 If you find this work is helpful to your research, please consider citing our paper:
