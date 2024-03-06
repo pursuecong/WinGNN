@@ -31,6 +31,8 @@ python main.py --dataset stackoverflow_M --lr 0.03 --maml_lr 0.001 --drop_rate 0
 
 Our source code and data processing are built heavily based on the code of Roland (https://github.com/snap-stanford/roland).
 
+We modified loader.py in graphgym, and the modified one is loader.py in this project.
+
 The data set download address is provided in the paper.
 
 ## Reference
